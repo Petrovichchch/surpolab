@@ -7,6 +7,7 @@ namespace Surpolab
         static void Main(string[] args)
         {
             Console.WriteLine("i love city-pop");
+            Console.WriteLine("i also love old music");
         }
     }
 }

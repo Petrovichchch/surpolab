@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Surpolab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98911303ba38ce01a56bb3338513ba55eff47a0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Surpolab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Surpolab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
